@@ -38,7 +38,6 @@ disease or not.
 
 # Demo
 
-### Demo Video link: [https://youtu.be/k-hHG6r6oP4](https://youtu.be/k-hHG6r6oP4)
 
 
 
@@ -69,13 +68,8 @@ Start the server
 ```
 
 
-# Authors
-
-- [@Ganesh-Thorat-01](https://github.com/Ganesh-Thorat-01/)
-- [@SejalKathed](https://github.com/SejalKathed)
-
 # Feedback
 
-If you have any feedback, please reach out to us at thorat.ganeshscoe@gmail.com
+If you have any feedback, please reach out to us at pratikshavadje06@gmail.com
 
 # Thyroid-Disease-detection
